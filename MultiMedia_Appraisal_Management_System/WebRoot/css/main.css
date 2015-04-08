@@ -1,0 +1,66 @@
+@CHARSET "UTF-8";
+
+*{ 
+  padding: 0px;
+  margin: 0px;
+  }
+  
+body{
+	background:url(../image/bg.png);
+	}
+	
+a{
+   text-decoration:none;
+   color: rgb(254, 254, 254); 
+   margin-right: 10px;
+   
+	}
+		
+.head_div{
+	background:#333;
+	width: 100%;
+	height: 100px;
+}
+
+.head_title{
+	text-align:center;
+	margin-top: 0px;
+	color: #FFF; 
+	font-size: 40;
+}
+
+.head_divider{
+	background:#F90;
+	width: 100%;
+	height: 15;
+	text-align: left;
+}
+
+.head_wel{
+	margin-left: 6px;
+	color: #333; 
+	font-size: 10;
+}
+
+.content{
+  background:url(../image/bg.png);
+  width:100%; 
+  height:100%;
+}
+
+.content_right{
+   width:770px;
+   height:425px;
+   background-color: #333;
+   margin-top: 40px;
+   margin-left: 40px;
+   margin-right: 40px;
+}
+
+/*内容框标题文字*/
+.content_title{
+	text-align:center;
+	margin-top: 0px;
+	color: #F90; 
+	font-size: 30 ;
+}

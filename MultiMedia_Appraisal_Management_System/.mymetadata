@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="MultiMedia_Appraisal_Management_System"
+  id="myeclipse.1425375636396"
+  context-root="/MultiMedia_Appraisal_Management_System"
+  j2ee-spec="5.0"
+  archive="MultiMedia_Appraisal_Management_System.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
